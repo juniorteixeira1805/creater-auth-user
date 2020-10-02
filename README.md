@@ -1,2 +1,2 @@
-# creater-auth-user
-Criação e autenticação de usuário com CRUD
+# sistema-carol-nutri
+Sistema de Carol Nutricionista
